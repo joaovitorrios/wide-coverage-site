@@ -1,6 +1,5 @@
 # Wide Coverage Location
 
-![Preview do Projeto](./img/project-preview.png)  
 
 ## 📌 Sobre o Projeto
 O **Wide Coverage Location** é um site desenvolvido utilizando **HTML** e **CSS**. Ele apresenta um design moderno e responsivo, ideal para demonstrar conceitos de **layout estruturado**, **tipografia bem definida** e **cores harmoniosas**. O projeto foi criado com o objetivo de treinar habilidades em desenvolvimento web e compor um portfólio profissional.

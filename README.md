@@ -24,26 +24,6 @@ O design do projeto segue uma estética clean e moderna, utilizando:
 │── README.md                # Documentação do projeto
 ```
 
-## 🌎 Como Visualizar o Projeto
-1️⃣ Clone o repositório:
-```bash
-git clone https://github.com/joaovitorrios/wide-coverage-site.git
-```
-
-2️⃣ Acesse a pasta do projeto:
-```bash
-cd wide-coverage-site
-```
-
-3️⃣ Abra o arquivo `index.html` no navegador.
-
-## 🚀 Publicação com GitHub Pages
-Se quiser deixar o projeto acessível online:
-1. No GitHub, vá até **Settings** → **Pages**
-2. Na seção **Source**, selecione a branch `main`
-3. Clique em **Save**
-4. O site estará disponível em: `https://joaovitorrios.github.io/wide-coverage-site/`
-
 ## 📌 Autor
 👨‍💻 **João Vitor Rios**  
 🔗 [GitHub](https://github.com/joaovitorrios)  
